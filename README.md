@@ -1,9 +1,6 @@
 # 🚀 CRAVE Trinity Backend (FastAPI + Clean Architecture)  
 
 ## 🌟 Overview  
-* 🔗 Frontend (SwiftUI + SwiftData + MVVM) → [crave-trinity-frontend](https://github.com/Crave-Trinity/crave-trinity-frontend)
-* 🔗 Backend (FastAPI + PostgreSQL + Pinecone + Llama 2) → [crave-trinity-backend](https://github.com/Crave-Trinity/crave-trinity-backend)
-
 CRAVE Trinity Backend is a **modular, Dockerized FastAPI application** built with **clean architecture** principles. It is designed to **track and analyze user cravings** and integrates multiple external services, including:  
 
 - 🛢 **PostgreSQL** for structured data storage  
@@ -11,7 +8,9 @@ CRAVE Trinity Backend is a **modular, Dockerized FastAPI application** built wit
 - 🤖 **Llama 2 with LoRA integration** for AI-powered insights (Batch 4)  
 
 This repository demonstrates an **end-to-end system**—from **initial setup** and **database migrations** to **AI model inference with LoRA adapters**.  
-
+* 🔗 Frontend (SwiftUI + SwiftData + MVVM) → [crave-trinity-frontend](https://github.com/Crave-Trinity/crave-trinity-frontend)
+* 🔗 Backend (FastAPI + PostgreSQL + Pinecone + Llama 2) → [crave-trinity-backend](https://github.com/Crave-Trinity/crave-trinity-backend)
+  
 ---
 
 ## 🏗 Architecture & Batches  
