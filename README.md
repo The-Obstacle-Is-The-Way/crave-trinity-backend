@@ -26,7 +26,7 @@ Any behavioral insights should be viewed as informational only, and users should
 CRAVE-WAVE
 The world's first self-optimizing craving intelligence system—a backend powered by Vertical AI, ensuring that craving personas, retrieval strategies, and inference evolve dynamically as moat and user behavior shift.
 
-## 🚀 CRAVE AI - Finalized Tech Stack  
+## 🚀 CRAVE WAVE - Finalized Tech Stack  
 
 ### **1️⃣ Core Tech Stack**
 | **Component**            | **Technology**                                      | **Rationale**  |
