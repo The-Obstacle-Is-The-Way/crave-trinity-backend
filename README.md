@@ -168,7 +168,7 @@ If GPU becomes a bottleneck, scale horizontally by adding more instances.
 
 ## 🚀 Next Steps  
 * 💥 1️⃣ Find a visionary technical co-founder
-* 💥 2️⃣ Start implementing this frontend/backend architecture  
+* 💥 2️⃣ Start implementing this backend architecture  
 * 💥 3️⃣ Ship, Talk to Users, Iterate
  
 ---
@@ -207,7 +207,7 @@ jj@DESKTOP-L9V85UA:/mnt/c/Users/JJ/Desktop/CRAVE/crave_trinity_backend$ tree -I 
 ################################################################################
 #                                                                              
 #  "I understand there's a guy inside me who wants to lay in bed,              
-#   smoke weed all day, and watch cartoons and old movies.                     
+#   smoke weed 🍃 all day, and watch cartoons and old movies.                     
 #   My whole life is a series of stratagems to avoid, and outwit, that guy."  
 #                                                                              
 #   - Anthony Bourdain                                                         
@@ -473,3 +473,4 @@ Any behavioral insights should be viewed as informational only, and users should
 ## 📜 License  
 
 This project is licensed under the **MIT License**.  
+> CRAVE: Because understanding your cravings shouldn't be complicated 🍫
