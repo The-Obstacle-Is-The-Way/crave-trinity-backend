@@ -41,20 +41,20 @@ The world's first self-optimizing craving intelligence system—a backend powere
 
 ---
 
-🧠 Intelligent Persona System
+🧠 **Intelligent Persona System**
 
 AI-powered LoRA hot-swapping ensures only relevant craving personas are active, with dynamic offloading of unused personas and continuous optimization based on real-world triggers
 Reinforcement Learning (RLHF) framework automatically refines persona deployment and selection strategies
 Custom attention mechanisms and adapter weights evolve based on user interaction patterns
 
-🔍 Advanced Retrieval & Memory
+🔍 **Advanced Retrieval & Memory**
 
 Time-compressed RAG pipeline that prioritizes recent cravings while intelligently summarizing long-term patterns
 Dynamic retrieval scaling adjusts vector DB query depth and response relevance based on historical interactions
 Intelligent caching system creates compressed trend markers for cost-efficient, rapid retrieval
 Hybrid dense/sparse vector indexing for optimal context matching
 
-⚡ Self-Optimizing Infrastructure
+⚡ **Self-Optimizing Infrastructure**
 
 Real-time VRAM/CPU monitoring with automated resource allocation and scaling
 Quantization and adaptive batching ensure LLaMA/LoRA models maintain peak efficiency
